@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/CIPHERTron/count.svg" />
+  <img src="https://profile-counter.glitch.me/HemZBond/count.svg" />
 </p>
   
 <div align="center">
@@ -9,7 +9,7 @@
 
 <p><strong>Follow me around the web:</strong></p><br>
 
-<a href="https://www.linkedin.com/in/pritishsamal/" target="_blank"><img src="https://img.shields.io/badge/-pritishsamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritishsamal/" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/hemu-ai/" target="_blank"><img src="https://img.shields.io/badge/-Hemanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemu-ai/" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/pritish__007" target="_blank"><img src="https://img.shields.io/badge/-pritish__007-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pritish__007/" alt="Instagram"></a>
 <a href="https://twitter.com/PritishSamal11/" target="_blank"><img src="https://img.shields.io/badge/PritishSamal11-000000?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/PritishSamal11/" alt="Twitter"></a>
 <a href="https://pritishsamal.com/" target="_blank"><img src="https://img.shields.io/badge/pritishsamal.com-0D4B89?style=flat-square&logo=React&logoColor=white&link=https://pritishsamal.com/" alt="Portfolio"></a>
